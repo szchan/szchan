@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Shaoze Chen
-- 👀 I’m interested in Nature Language Processing
-- 📫 You can reach me by sending me email: mail.szchan@gmail.com
+- 👋 Hi, 我是陈老赚
+- 👀 在这里分享我的量化交易项目，不构成投资建议。
 
 <!---
 szchan/szchan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
