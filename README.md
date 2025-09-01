@@ -1,3 +1,6 @@
+- 👋 Hi, here is chan
+- 👀 I mainly share my quantitative projects
+--- 
 - 👋 Hi, 我是陈老赚
 - 👀 在这里分享我的量化交易项目，不构成投资建议。
 
