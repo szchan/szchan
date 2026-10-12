@@ -1,8 +1,8 @@
-- 👋 Hi, here is chan
-- 👀 I mainly share my quantitative projects
+- 👋 Hi, here is Shaoze Chen!
+- 👀 I am a AI/Software Engineer!
 --- 
-- 👋 Hi, 我是陈老赚
-- 👀 在这里分享我的量化交易项目，不构成投资建议。
+- 👋 Hi, 我是陈少泽
+- 👀 我是AI/软件工程师。
 
 <!---
 szchan/szchan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
